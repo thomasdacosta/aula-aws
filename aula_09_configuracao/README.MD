@@ -1,0 +1,1 @@
+9	Configuração - LAB: Gerenciando configurações com Parameter Store e CloudFormation

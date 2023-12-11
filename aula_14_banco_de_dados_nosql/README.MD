@@ -1,0 +1,1 @@
+14	NoSQL - LAB: Criando um CRUD com DynamoDB

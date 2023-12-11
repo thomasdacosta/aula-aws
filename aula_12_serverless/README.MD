@@ -1,0 +1,1 @@
+12	Serverless - LAB: Criando um AWS Lambda e consumindo informações do AWS SQS

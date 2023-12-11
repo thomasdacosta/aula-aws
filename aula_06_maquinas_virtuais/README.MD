@@ -1,0 +1,1 @@
+6	Máquinas Virtuais - LAB: Acessando remotamente um AWS EC2 através de SSH

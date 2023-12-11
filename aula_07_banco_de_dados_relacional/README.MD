@@ -1,0 +1,1 @@
+7	Banco de Dados - LAB: Implantando um banco de dado MySQL com AWS RDS

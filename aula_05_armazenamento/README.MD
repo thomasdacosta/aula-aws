@@ -1,0 +1,1 @@
+5	Armazenamento - LAB: Implantando um site com React JS no S3

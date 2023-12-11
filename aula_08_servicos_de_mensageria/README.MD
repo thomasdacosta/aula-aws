@@ -1,0 +1,1 @@
+8	Serviços de Mensageria - LAB: Criando AWS SQS e AWS SNS para envio e recebimento de mensagens
