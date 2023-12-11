@@ -1,1 +1,1 @@
-# Básicod de AWS
+# Básico de AWS
