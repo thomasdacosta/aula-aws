@@ -1,8 +1,8 @@
 # Armazenamento - LAB: Implantando um site com React JS no S3
 
-![](logo.png)
-
 Tutorial passo a passo de como implantar um site estático desenvolvido com React JS dentro de um bucket no AWS S3.
+
+![](logo.png)
 
 ## Link do Tutorial
 
