@@ -9,3 +9,7 @@
 - Aula 11 - Balanceamento de Carga - LAB: Implantando um Application Load Balancer (ALB) na AWS com EC2
 - Aula 12 - Serverless - LAB: Criando um AWS Lambda e consumindo informações do AWS SQS
 - Aula 14 - NoSQL - LAB: Criando um CRUD com DynamoDB
+
+---
+
+Thomás da Costa - [https://thomasdacosta.com.br](https://thomasdacosta.com.br)
