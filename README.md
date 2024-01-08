@@ -1,6 +1,6 @@
 # Básico de AWS
 
-- Aula 05 - Armazenamento - LAB: Implantando um site com React JS no S3
+- [Aula 05 - Armazenamento - LAB: Implantando um site com React JS no S3](https://thomasdacosta.com.br/2023/08/24/step-by-step-implantando-um-site-com-react-js-no-s3/)
 - Aula 06 - Máquinas Virtuais - LAB: Acessando remotamente um AWS EC2 através de SSH
 - Aula 07 - Banco de Dados - LAB: Implantando um banco de dado MySQL com AWS RDS
 - Aula 08 - Serviços de Mensageria - LAB: Criando AWS SQS e AWS SNS para envio e recebimento de mensagens
