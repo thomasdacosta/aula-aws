@@ -1,5 +1,9 @@
 # Básico de AWS
 
+Conceitos básicos das principais tecnologias da AWS envolvendo todo o processo para implantar uma aplicação com banco de dados, mensageria, configuração, comunicação, balanceamento de carga, Serverless e NoSQL
+
+# Links
+
 - [Aula 05 - Armazenamento - LAB: Implantando um site com React JS no S3](https://thomasdacosta.com.br/2023/08/24/step-by-step-implantando-um-site-com-react-js-no-s3/)
 - [Aula 06 - Máquinas Virtuais - LAB: Acessando remotamente um AWS EC2 através de SSH](https://thomasdacosta.com.br/2023/09/03/step-by-step-acessando-remotamente-um-aws-ec2-atraves-de-ssh/)
 - [Aula 07 - Banco de Dados - LAB: Implantando um banco de dado MySQL com AWS RDS](https://thomasdacosta.com.br/2023/09/09/step-by-step-implantando-um-banco-de-dado-mysql-com-aws-rds/)
