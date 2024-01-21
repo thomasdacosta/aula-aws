@@ -8,6 +8,10 @@ Tutorial de como implantar um banco de dados RDS para subir um microsserviço de
 
 https://thomasdacosta.com.br/2023/09/09/step-by-step-implantando-um-banco-de-dado-mysql-com-aws-rds/
 
+## Código Fonte
+
+https://github.com/thomasdacosta/spring-boot-localstack/tree/spring-boot-localstack-banco_de_dados_relacional
+
 ---
 
 Thomás da Costa - [https://thomasdacosta.com.br](https://thomasdacosta.com.br)
