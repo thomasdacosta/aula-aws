@@ -9,7 +9,7 @@ Tutorial de como implantar um servidor EC2 para subir um microsserviço desenvol
 https://thomasdacosta.com.br/2023/09/03/step-by-step-acessando-remotamente-um-aws-ec2-atraves-de-ssh/
 
 ## Código Fonte
-- https://github.com/thomasdacosta/spring-boot-localstack/tree/spring-boot-localstack-maquinas_virtuais
+https://github.com/thomasdacosta/spring-boot-localstack/tree/spring-boot-localstack-maquinas_virtuais
 
 ---
 
