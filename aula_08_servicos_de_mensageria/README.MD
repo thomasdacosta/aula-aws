@@ -8,6 +8,10 @@ Tutorial de como implantar um SQS para receber mensagens a partir de um SNS. O S
 
 https://thomasdacosta.com.br/2023/09/17/step-by-step-criando-aws-sqs-e-aws-sns-para-envio-e-recebimento-de-mensagens/
 
+## Código Fonte
+
+https://github.com/thomasdacosta/spring-boot-localstack/tree/spring-boot-localstack-servicos_de_mensageria
+
 ---
 
 Thomás da Costa - [https://thomasdacosta.com.br](https://thomasdacosta.com.br)
