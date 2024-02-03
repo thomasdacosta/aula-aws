@@ -8,6 +8,9 @@ Tutorial de como implantar os parâmetros de configuração do microsserviço em
 
 https://thomasdacosta.com.br/2023/09/23/step-by-step-gerenciando-configuracoes-com-parameter-store-e-efetuando-o-deploy-com-cloudformation/
 
+## Código Fonte
+https://github.com/thomasdacosta/spring-boot-localstack/tree/spring-boot-localstack-configuracao
+
 ---
 
 Thomás da Costa - [https://thomasdacosta.com.br](https://thomasdacosta.com.br)
