@@ -4,15 +4,25 @@ Conceitos básicos das principais tecnologias da AWS envolvendo todo o processo 
 
 # Links
 
-- [Aula 05 - Armazenamento - LAB: Implantando um site com React JS no S3](https://thomasdacosta.com.br/2023/08/24/step-by-step-implantando-um-site-com-react-js-no-s3/)
-- [Aula 06 - Máquinas Virtuais - LAB: Acessando remotamente um AWS EC2 através de SSH](https://thomasdacosta.com.br/2023/09/03/step-by-step-acessando-remotamente-um-aws-ec2-atraves-de-ssh/)
-- [Aula 07 - Banco de Dados - LAB: Implantando um banco de dado MySQL com AWS RDS](https://thomasdacosta.com.br/2023/09/09/step-by-step-implantando-um-banco-de-dado-mysql-com-aws-rds/)
-- [Aula 08 - Serviços de Mensageria - LAB: Criando AWS SQS e AWS SNS para envio e recebimento de mensagens](https://thomasdacosta.com.br/2023/09/17/step-by-step-criando-aws-sqs-e-aws-sns-para-envio-e-recebimento-de-mensagens/)
-- [Aula 09 - Configuração - LAB: Gerenciando configurações com Parameter Store e Secret Manager](https://thomasdacosta.com.br/2023/09/23/step-by-step-gerenciando-configuracoes-com-parameter-store-e-efetuando-o-deploy-com-cloudformation/)
-- Aula 10 - Comunicação - LAB: Implantando um API Gateway com Spring Boot com EC2 e RDS
-- [Aula 11 - Balanceamento de Carga - LAB: Implantando um Application Load Balancer (ALB) na AWS com EC2](https://thomasdacosta.com.br/2023/04/23/step-by-step-implantando-um-application-load-balancer-alb-na-aws-com-ec2/)
-- [Aula 12 - Serverless - LAB: Criando um AWS Lambda e consumindo informações do AWS SQS](https://thomasdacosta.com.br/2023/04/15/passo-a-passo-criando-um-aws-lambda-e-consumindo-informacoes-do-aws-sqs/)
-- Aula 14 - NoSQL - LAB: Criando um CRUD com DynamoDB
+- Aula 01 - Introdução a Cloud Computing
+- Aula 02 - Introdução a AWS
+- Aula 03 - Componentes básicos da AWS
+- Aula 04 - Conhecendo o Learner Labs
+- Aula 05 - Armazenamento - LAB: Implantando um site com React JS no S3
+- Aula 06 - Máquinas Virtuais - LAB: Acessando remotamente um AWS EC2 através de SSH
+- Aula 07 - Banco de Dados - LAB: Implantando um banco de dado MySQL com AWS RDS
+- Aula 08 - Serviços de Mensageria - LAB: Criando AWS SQS e AWS SNS para envio e recebimento de mensagens
+- Aula 09 - Configuração - LAB: Gerenciando configurações com Parameter Store e CloudFormation
+- Aula 10 - Balanceamento de Carga - LAB: Implantando um Application Load Balancer (ALB) na AWS com EC2
+- Aula 11 - Serverless - LAB: Criando um AWS Lambda e consumindo informações do AWS SQS
+- Aula 12 - #AWS - Laboratório 1 - Introdução ao IAM
+- Aula 13 - #AWS - Laboratório 2 - Crie sua VPC e execute um servidor web
+- Aula 14 - #AWS - Laboratório 3 - Introdução ao Amazon EC2
+- Aula 15 - #AWS - Laboratório 4 - Trabalhando com EBS
+- Aula 16 - #AWS - Laboratório 5 - Crie um servidor de banco de dados e interaja com o banco de dados usando um aplicativo
+- Aula 17 - #AWS - Atividade: AWS Elastic Beanstalk
+- Aula 18 - #AWS - Laboratório 6 - Ajuste a escala e o balanceamento de carga da arquitetura
+- Aula 19 - #AWS - Atividade: AWS Lambda
 
 ---
 
