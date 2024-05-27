@@ -2,7 +2,7 @@
 
 Conceitos básicos das principais tecnologias da AWS envolvendo todo o processo para implantar uma aplicação com banco de dados, mensageria, configuração, comunicação, balanceamento de carga, Serverless e NoSQL
 
-# Links
+# Tópicos Abordados
 
 - Aula 01 - Introdução a Cloud Computing
 - Aula 02 - Introdução a AWS
